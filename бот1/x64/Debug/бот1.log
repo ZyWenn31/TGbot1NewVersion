@@ -1,0 +1,11 @@
+﻿  Source.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+C:\Проекты с++\бот1\бот1\Functions.h(91,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Проекты с++\бот1\бот1\Source.cpp(153,104): warning C4244: аргумент: преобразование "int64_t" в "int", возможна потеря данных
+C:\Проекты с++\бот1\бот1\Source.cpp(193): warning C4715: `main'::`2'::<lambda_3>::operator(): значение возвращается не при всех путях выполнения
+  бот1.vcxproj -> C:\Проекты с++\бот1\x64\Debug\бот1.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
